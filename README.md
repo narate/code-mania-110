@@ -4,7 +4,7 @@ My code mania 110 demo
 # Example
 
 ## Step 1
-Create docker network run create_network.sh in each linux box
+Create docker network run `create_network.sh` in each linux box
 ```
 sh create_network.sh
 ```
