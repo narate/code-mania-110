@@ -62,7 +62,7 @@ while true; do clear; curl -i localhost:8080 -b cookies.txt; echo; echo "Ctrl+C 
 
 ## PHP share session
 ```
-# run php with share share session at `server-1,2,3,4,...`
+# run php with share session at `server-1,2,3,4,...`
 # remove and run docker all server
 docker rm -f php_app
 cd php
