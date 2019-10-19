@@ -1,12 +1,25 @@
-# code-mania-110
-My code mania 110 demo
+# code-mania-110: "เป็นมากกว่า Memcached, ktserver"
 
-# 
-Video on YouTube
+My code mania 110 demo. <br>
+I had a talk at the event named "Code Mania 110: Moving Forward, Open-Source world".
+My session is "เป็นมากกว่า Memcached, ktserver".
 
-![เป็นมากกว่า Memcached, Ktserver - Code Mania 110](https://img.youtube.com/vi/tBdeUOeREMA/0.jpg)
+I would introduce how 'ktserver':
+-  could save your life on the memcache problem, data lost.
+-  help you improve data scalability performance.
 
-https://www.youtube.com/watch?v=tBdeUOeREMA
+The session was recorded and shared on Youtube as shown below.
+
+<br>
+
+## Video on YouTube
+
+![เป็นมากกว่า Memcached, Ktserver - Code Mania 110](screenshot.png)
+
+
+
+URL: https://www.youtube.com/watch?v=tBdeUOeREMA
+
 
 # Example
 
